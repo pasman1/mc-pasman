@@ -1,5 +1,6 @@
 # mc-pasman
 Midnight Commander - snap build
+
   Midnight Commander. https://midnight-commander.org
   This build has restricted access.
   Enable access to directories:
@@ -16,5 +17,7 @@ Midnight Commander - snap build
     mc-pasman.mcdiff:
   
   Configs:
+  
     ~/snap/mc-pasman/current/.config
+    
   Based on core22.
