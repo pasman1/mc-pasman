@@ -2,6 +2,7 @@
 Midnight Commander - snap build
 
   Midnight Commander. https://midnight-commander.org
+  
   This build has restricted access.
   Enable access to directories:
   
